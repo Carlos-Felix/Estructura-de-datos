@@ -1,0 +1,13 @@
+	                       Practica Calificada 2
+
+1) Implementar un procedimiento para insertar un dato en orden ascendente en una lista simplemente 
+   enlazada. Es decir, el nodo que representa el dato debe ser insertado en una posición tal que 
+   al recorrer la lista los nodos se recorran de menor a mayor respecto del dato.
+
+2) Inserte numeros enteros en una lista doblemente enlazada hasta que se ingrese el numero cero, 
+   luego ordene la lista de tal manera que los números pares se encuentren primero que los 
+   números impares, además ambas sublistas se encuentren ordenadas.
+
+3) Guarde en una lista circular I(1) los n primeros números de la sucesion de fibonacci. 
+   Ejemplo: si n = 4 guardará 1,1,2,3, y en otra lista I(2) m numero enteros. 
+   Construya I(1) = I(1) - I(2). No use listas adicionales.   

@@ -1,0 +1,7 @@
+Relize un grafo ponderado y que este encuentre el menor recorrido (la suma de las aristas es la menor) para llegar de un nodo A a un nodo B.
+
+Explicar detalladamente el proceso de  insertar 2,1,4,5,9,3,6,7 en un árbol AVL vacío inicialmente. (3 puntos)
+
+Dada la lista simple enlazada que almacena números enteros. Realizar un programa que suprima todos los elementos mayores que uno dado como límite.
+
+Escriba una funcion que tome como entrada un arbol binario de busqueda, arbol, y dos llaves k1 y k2 , tal que, k1 < llave(x) < k2 , y visualice todos los elementos x

@@ -1,0 +1,10 @@
+		Practica Calificada 4
+
+
+1) Dos árboles binarios son isomorfos si uno se puede obtener apartir del 
+   otro intercambiando los hijos izquierdo y derecho de cada nodo.    
+   Cree una funcion que reciba como datos dos arboles y devuelva un booleano 
+   indicando si son isomorfos o no.
+
+2) Cree una funcion que devuelva la cantidad de hojas de un arbol binario 
+   de busqueda.
